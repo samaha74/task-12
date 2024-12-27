@@ -20,25 +20,8 @@ body{
     padding-right: 15px;
     margin-left: auto;
     margin-right: auto;
+    width: 73%;
   }
-
-  @media (min-width: 768px) {
-    .container {
-      width: 800px;
-    }
-  }
-  
-  @media (min-width: 992px) {
-    .container {
-      width: 970px;
-    }
-  }
-
-  @media (min-width: 1200px) {
-      .container {
-          width: 73%;
-        }
-    }
 
 .backImg{
     position: absolute;
@@ -220,7 +203,7 @@ margin-top: 160px;
         flex-direction: column;
         gap: 10px;
         width: 400px;
-        background-color: #69737f52;
+        background-color: #ffffff1a;
         border: 2px solid white;
     i{
         font-size: 40px;
